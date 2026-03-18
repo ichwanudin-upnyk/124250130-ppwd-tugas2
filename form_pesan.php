@@ -18,7 +18,7 @@
 <body>
     <div class="pesan-container">
         <h2>Form Pemesanan</h2>
-        <form action="invoice.php" method="POST">
+        <form action="berhasil.php" method="POST">
             <div class="row">
                 <div class="input-group">
                       <label for="name">Nama :</label>
@@ -31,11 +31,11 @@
             </div>
             <div class="pilih">
                 <p>Film yang ingin dipesan :</p>
-                <label for="film"><input type="radio" name="film" value="raden"> Mencuri Raden Saleh</label>
-                <label for="film"><input type="radio" name="film"> 13 Bom di Jakarta</label>
-                <label for="film"><input type="radio" name="film"> Jatuh Cinta Seperti di Film-Film</label>
-                <label for="film"><input type="radio" name="film"> Pengepungan di Bukin Duri</label>
-                <label for="film"><input type="radio" name="film">Nanti Kita Cerita Tentang Hari Ini</label>
+                <label for="film"><input type="radio" name="film" value="Mencuri Raden Saleh"> Mencuri Raden Saleh</label>
+                <label for="film"><input type="radio" name="film" value="13 Bom di Jakarta"> 13 Bom di Jakarta</label>
+                <label for="film"><input type="radio" name="film" value="Jatuh Cinta Seperti di Film-Film"> Jatuh Cinta Seperti di Film-Film</label>
+                <label for="film"><input type="radio" name="film" value="Pengepungan di Bukin Duri"> Pengepungan di Bukin Duri</label>
+                <label for="film"><input type="radio" name="film" value="Nanti Kita Cerita Tentang Hari Ini"> Nanti Kita Cerita Tentang Hari Ini</label>
             </div>
             <div class="row">
                 <div class="input-group">

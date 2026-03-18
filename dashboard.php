@@ -24,7 +24,7 @@
     <div class="section-title">Now Playing</div>
     	<div class="movie-grid">
     		<div class="movie-card">
-    			<img src="\aset\mencuriRadenSaleh.png" class="movie-poster">
+    			<img src="aset\mencuriRadenSaleh.png" class="movie-poster">
     			<div class="movie-info">
     				<h3>Mencuri Raden Saleh</h3>
     				<p class="genre">Action</p>
@@ -35,7 +35,7 @@
     			</div>
     		</div>
     		<div class="movie-card">
-    			<img src="\aset\13BomDiJakarta.jpg" class="movie-poster">
+    			<img src="aset\13BomDiJakarta.jpg" class="movie-poster">
     			<div class="movie-info">
     				<h3>13 Bom di Jakarta</h3>
     				<p class="genre">Action</p>
@@ -46,7 +46,7 @@
     			</div>
     		</div>
     		<div class="movie-card">
-    			<img src="\aset\JatuhCinta.jpg" class="movie-poster">
+    			<img src="aset\JatuhCinta.jpg" class="movie-poster">
     			<div class="movie-info">
     				<h3>Jatuh Cinta Seperti di FIlm-Film</h3>
     				<p class="genre">Romance</p>
@@ -57,7 +57,7 @@
     			</div>
     		</div>
     		<div class="movie-card">
-    			<img src="\aset\bukitDuri.jpeg" class="movie-poster">
+    			<img src="aset\bukitDuri.jpeg" class="movie-poster">
     			<div class="movie-info">
     				<h3>Pengepungan di Bukit Duri</h3>
     				<p class="genre">Action</p>
@@ -68,7 +68,7 @@
     			</div>
     		</div>
     		<div class="movie-card">
-    			<img src="\aset\nkcthi.jpeg" class="movie-poster">
+    			<img src="aset\nkcthi.jpeg" class="movie-poster">
     			<div class="movie-info">
     				<h3>Nanti Kita Cerita tentang Hari Ini</h3>
     				<p class="genre">Drama</p>
